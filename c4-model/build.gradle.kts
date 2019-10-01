@@ -23,6 +23,7 @@ repositories {
 dependencies {
 	// This dependency is used by the application.
 	implementation("com.google.guava:guava:28.0-jre")
+	implementation("com.structurizr:structurizr-client:1.3.0")
 
 	// Use JUnit test framework
 	testImplementation("junit:junit:4.12")
